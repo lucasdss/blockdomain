@@ -10,6 +10,7 @@ done
 cat *.tmp | sort | uniq > bandomain.list
 rm -rf *.tmp
 mv bandomain.list bandomain.txt
+
 rm blockdomain[0-9]*
 
 split -d -l 800000 bandomain.txt blockdomain

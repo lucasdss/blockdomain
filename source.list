@@ -1,16 +1,5 @@
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adaway-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adaway-ipv6.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adaway-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adaway-ipv6.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adguardtrackers-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/adguardtrackers-ipv6.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/antipopads-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/antipopads-ipv6.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/yoyo-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/yoyo-ipv6.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/oisdnsfw-ipv4.txt
-https://raw.githubusercontent.com/dibdot/banIP-IP-blocklists/refs/heads/main/oisdnsfw-ipv6.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-domains.txt
+https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-domains_abandoned.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-domains_overall.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-ipv4.txt
 https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-ipv6.txt
@@ -34,3 +23,4 @@ https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock5
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/pornblock6
 https://raw.githubusercontent.com/RPiList/specials/refs/heads/master/Blocklisten/child-protection
+https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/ultimate.txt

@@ -3,6 +3,7 @@
 for l in $(cat source.list)
 do
 	echo $l
+	curl -I $l | grep -E ^"HTTP/" 2> /dev/null
 	newfile=$(basename $l)
 	curl -s $l | grep -v "^#" | sed 's/^||//;s/\^$//' | cut -f 2 -d '#' -- | sed 's/^ //' > $newfile.tmp
 done
